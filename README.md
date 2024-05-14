@@ -1,7 +1,5 @@
 # Round Robin CPU Scheduling in Python
 This program simulates the Round Robin CPU scheduling algorithm for 3 to 10 processes. 
-![image](https://github.com/ChannKK/rr-cpu-scheduling/assets/91399951/890d1e36-5e31-45a7-a534-47a9735e6edb)
-
 
 ## Features
 
